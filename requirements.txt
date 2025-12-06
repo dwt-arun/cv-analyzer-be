@@ -1,0 +1,11 @@
+langchain
+langchain-openai
+langchain-community
+pydantic
+pymupdf
+dotenv
+sentence_transformers
+rapidfuzz
+pandas
+googletrans==4.0.0-rc1
+langdetect
